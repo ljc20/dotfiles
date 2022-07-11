@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = luca.chammah@icloud.com
+	name = Luca Chammah
